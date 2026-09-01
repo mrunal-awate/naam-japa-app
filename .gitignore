@@ -1,0 +1,28 @@
+# Node
+node_modules/
+npm-debug.log*
+
+# Capacitor
+www/
+
+# Android / Gradle
+android/app/build/
+android/build/
+android/.gradle/
+android/local.properties
+android/captures/
+android/.cxx/
+android/*.iml
+android/app/*.iml
+
+# Android Studio
+.idea/
+*.hprof
+
+# Keystore (NEVER commit your signing key)
+*.keystore
+*.jks
+
+# OS files
+.DS_Store
+Thumbs.db
