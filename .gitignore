@@ -14,6 +14,7 @@ android/captures/
 android/.cxx/
 android/*.iml
 android/app/*.iml
+android/app/google-services.json
 
 # Android Studio
 .idea/
